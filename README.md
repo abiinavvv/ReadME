@@ -48,13 +48,7 @@ I'm **Abhinav**, a passionate **Flutter Developer** and a **Full Stack Learner**
 
 ---
 
-<!-- Projects Section -->
-### 🚀 Projects
-- **[Technician Booking App](https://github.com/abiinavvv)**: A Flutter app for booking technicians to service medical equipment with **AI-driven features** like predictive maintenance, intelligent technician matching, and a chatbot.  
-- **[Portfolio Website](https://github.com/abiinavvv)**: A personal portfolio showcasing my skills, projects, and achievements.  
-- **[Data Visualization Dashboard](https://github.com/abiinavvv)**: An analytics dashboard powered by **Flutter** and **Firebase**.  
-
----
+<!-- Projects Section 
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
