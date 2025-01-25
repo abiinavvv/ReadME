@@ -16,68 +16,93 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=25&pause=1000&color=3BADF7&center=true&vCenter=true&random=false&width=700&height=80&lines=🔥+Passionate+Flutter+Developer;🚀+Full+Stack+Learner+%7C+Dart+%26+Node.js;🤖+Aspiring+AI/ML+Explorer;🌟+Open+Source+Contributor;💡+Problem+Solver+%7C+DS%26A+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=25&pause=1000&color=3BADF7&center=true&vCenter=true&random=false&width=700&height=80&lines=🔥+Passionate+Flutter+Developer;🚀+Full+Stack+Learner+%7C+Dart+%26+Node.js;🤖+Aspiring+AI/ML+Explorer;🌟+Open+Source+Contributor;💡+Problem+Solver+%7C+DS%26A+Learner;💻+LeetCode+Enthusiast;✨+State+Management+Pro" alt="Typing SVG" />
 </a>
 
----
-
-<!-- About Me -->
-### 👋 About Me
-I'm **Abhinav**, a passionate **Flutter Developer** and a **Full Stack Learner** with expertise in **Dart**, **Node.js**, and **AI/ML exploration**. I love solving real-world problems, contributing to **open-source projects**, and building scalable applications.  
-
-- 🔭 Working on exciting Flutter projects and exploring backend development with Node.js.  
-- 🌱 Currently leveling up in **Data Structures & Algorithms** and **AI-driven features**.  
-- 💬 Let's collaborate on innovative projects or discuss tech trends.  
-- 📧 Reach me at: [abhinavaneesh2@gmail.com](mailto:abhinavaneesh2@gmail.com)
-
----
-
-<!-- Tech Stack -->
-### 🛠️ Tech Stack
-
+<!-- Quote -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%234d8aa8.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in" />
 </div>
+
+---
+
+<!-- About Section -->
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **State Management in Flutter**.
+- 🌱 I’m currently learning **LeetCode Problem Solving** and **Backend Integration with Node.js**.
+- 💬 Ask me about **Flutter Development**, **State Management**, **Dart**, and **Problem Solving**.
+- 🎯 Goals for 2025: Upskill to a **3+ years experienced Flutter Developer** and build impactful projects.
+- ⚡ Fun fact: I’m a tech enthusiast who loves blending creativity with technology!
 
 ---
 
 <!-- Projects Section -->
-### 🚀 Projects
-- **[Technician Booking App](https://github.com/abiinavvv)**: A Flutter app for booking technicians to service medical equipment with **AI-driven features** like predictive maintenance, intelligent technician matching, and a chatbot.  
-- **[Portfolio Website](https://github.com/abiinavvv)**: A personal portfolio showcasing my skills, projects, and achievements.  
-- **[Data Visualization Dashboard](https://github.com/abiinavvv)**: An analytics dashboard powered by **Flutter** and **Firebase**.  
+### 🛠️ My Projects:
+
+#### 📱 RecipeME App
+- **Description**: A beautiful recipe app for exploring and saving recipes.
+- **Features**:
+  - User authentication.
+  - Save and share favorite recipes.
+  - Intuitive and elegant UI design.
+- **Tech Stack**: Flutter, Dart, Firebase.
+- **Repo**: [RecipeME](https://github.com/abiinavvv/RecipeME)
+
+#### 📅 Habits Tracker
+- **Description**: A habit tracker app to build and maintain positive habits.
+- **Features**:
+  - Track daily, weekly, and monthly habits.
+  - Notifications and reminders.
+  - Analytics dashboard.
+- **Tech Stack**: Flutter, Dart.
+- **Repo**: [Habits Tracker](https://github.com/abiinavvv/Habits)
+
+#### 🛍️ Amazon Clone
+- **Description**: A feature-rich Amazon app clone.
+- **Features**:
+  - Product listing, cart, and checkout functionality.
+  - User authentication and order tracking.
+- **Tech Stack**: Flutter, Dart, Node.js.
+- **Repo**: [Amazon Clone](https://github.com/abiinavvv/Amazon-App)
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+<!-- Skills Section -->
+### 💻 Technical Skills:
+- **Languages**: Dart, JavaScript, SQL.
+- **Frameworks & Tools**: Flutter, Node.js, Firebase, Git.
+- **State Management**: Provider, Riverpod, Bloc.
+- **Problem-Solving**: LeetCode, HackerRank, CodeChef.
+- **UI/UX**: Figma, Canva, Adobe XD.
+
+---
+
+<!-- Achievements Section -->
+### 🏆 Achievements:
+- ⭐ Solved **200+ LeetCode problems**.
+- 🌟 Contributed to **3+ open-source projects**.
+- 🎉 Developed **3 feature-rich apps**.
+
+---
+
+<!-- Connect Section -->
+### 📬 Connect With Me:
+- **Email**: [abhinavaneesh2@gmail.com](mailto:abhinavaneesh2@gmail.com)
+- **LinkedIn**: [Abhinav Aneesh](https://linkedin.com/in/abhinavaneesh)
+- **GitHub**: [abiinavvv](https://github.com/abiinavvv)
+
+---
+
+<!-- GitHub Stats Section -->
+### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abiinavvv&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abiinavvv&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abiinavvv&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abiinavvv&theme=tokyonight&hide_border=true" />
 </div>
 
----
-
-<!-- Connect With Me -->
-### 🤝 Let's Connect
+<!-- Dynamic Graph -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/abhinavaneesh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:abhinavaneesh2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/abiinavvv"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=abiinavvv&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
 </div>
-
----
-
-<!-- Dynamic 3D Text -->
-<a href="https://github.com/abiinavvv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav;Flutter+Developer+%F0%9F%92%BB;Full+Stack+Learner+%7C+Dart+%26+Node.js;Tech+Enthusiast+%F0%9F%94%A5;Open+to+exciting+opportunities!" alt="Typing SVG" />
-</a>
 
 </div>
